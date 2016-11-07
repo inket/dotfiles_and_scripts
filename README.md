@@ -1,1 +1,1 @@
-# dotfiles_and_scripts
+dotfiles and scripts
